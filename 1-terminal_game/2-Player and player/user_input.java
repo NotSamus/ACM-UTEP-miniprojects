@@ -3,10 +3,11 @@
  * Author : Jesus Lopez
  */
 import java.util.HashMap;
-
+import java.util.Scanner;
+import java.io.IOException;
 public class user_input{
 
-    public static HashMap<String,user> user_records = new HashMap<String,user>();
+    public static HashMap<String,String> user_records = new HashMap<String,String>();
     public static void main(String [] args){
 
     }
