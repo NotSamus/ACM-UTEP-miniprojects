@@ -49,7 +49,6 @@ When reading a file of multiple lines with enters, your best friends are going t
 you can use it in the following form:
 
 ```Java
-//for
 while(File.hasNextLine()){
     //read from the file
 }
