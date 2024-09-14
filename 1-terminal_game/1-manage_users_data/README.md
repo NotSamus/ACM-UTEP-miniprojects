@@ -145,6 +145,8 @@ Inside the method **tokenUser()** you are going to write your own code to handle
 
 Also Remember to put the **Key** and the **Value** for the HashMap.
 
+See you and Happy Coding!!!
+
 #### FAQ
 
 **Bug when using Scanner**: to solve one bug you may have in the scanner you can ude the following line of code to clear the input from the scanner.
