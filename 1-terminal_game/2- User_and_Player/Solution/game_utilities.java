@@ -1,12 +1,12 @@
 /**
- * Title : handle_csv 
+ * Title : Handle_csv
  * Author : Jesus Lopez
  */
 import java.util.HashMap;
 import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
-public class handle_csv{
+public class game_utilities{
 
     public static HashMap<String,String> user_records = new HashMap<String,String>();
     public static void main(String [] args)throws IOException{
