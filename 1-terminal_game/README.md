@@ -23,3 +23,6 @@ implement the code. it will be also on my personal web page, so swing around!!!
 3. Map management
 
 See you and Happy Coding!!!
+
+## FAQ
+**Java missing** : Remember we are going to have installed java, please install the latest JDK
